@@ -34,6 +34,23 @@
   <hr/>
 <h2 align="center">Projects / Proyectos</h2>
 <hr/>
+
+  <h2> Country-app </h2>
+  <h4> Developed with: / Desarrollada con: </h4>
+<ul>
+  <h5>|--| FrontEnd |--|</h5>
+    <li>React</li>
+    <li>Redux</li>
+  <h5>|--| BackEnd |--|</h5>
+    <li>NodeJs</li>
+    <li>Express</li>
+    <li>Sequelize</li>
+    <li>PostgreSQL</li>
+</ul>
+ Aplicación web responsiva que permite la consulta de ciudades y su información al hacer click sobre la misma, se puede filtrar por nombre, por población o por continente para mejorar la búsqueda. También se puede crear actividades asociadas a las ciudades que se podrán crear con un formulario controlado en donde una actividad puede ser asociada a muchas ciudades.
+  <hr/>
+<hr/>
+
   <h2> E-commerce </h2>
 
 <h4> Developed with: / Desarrollada con: </h4>
