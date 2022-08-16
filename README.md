@@ -1,2 +1,3 @@
+![Sin títuloasd](https://user-images.githubusercontent.com/101951428/184951260-b437f98b-af40-4145-ac82-f8944a898cf3.png)
+
 Hi, my name is Rodrigo! 👋
-![Ro1](https://user-images.githubusercontent.com/101951428/184950387-ae21c30b-6597-4b33-9afc-c51c0fdfeefb.jpg)
