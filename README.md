@@ -8,7 +8,7 @@
 
 <div>
     <a href="https://www.linkedin.com/in/rodrigo-perez-yones/">
-      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Felipe Ciro LinkedIn Profile" height="40" width="40" />
+      <img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Rodrigo LinkedIn Profile" height="40" width="40" />
       </a>
     <a href="mailto:yones.rpy@gmail.com">
      <img align="center" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" alt="Rodrigo Gmail" height="50" width="50" />
@@ -47,8 +47,10 @@
     <li>Sequelize</li>
     <li>PostgreSQL</li>
 </ul>
- Aplicación web responsiva que permite la consulta de ciudades y su información al hacer click sobre la misma, se puede filtrar por nombre, por población o por continente para mejorar la búsqueda. También se puede crear actividades asociadas a las ciudades que se podrán crear con un formulario controlado en donde una actividad puede ser asociada a muchas ciudades.
-  <hr/>
+<p> Aplicación web responsiva que permite la consulta de ciudades y su información al hacer click sobre la misma, se puede filtrar por nombre, por población o por continente para mejorar la búsqueda. También se puede crear actividades asociadas a las ciudades que se podrán crear con un formulario controlado en donde una actividad puede ser asociada a muchas ciudades.</p>
+ <a href="https://fronten-pi.vercel.app/Ciudad">
+  <img align="center" src="https://res.cloudinary.com/deaf0qceq/image/upload/v1660677261/ecommercegrupo05/country_p0yw1n.png" alt="country"  height=50% width=50% />
+  </a>
 <hr/>
 
   <h2> E-commerce </h2>
@@ -67,5 +69,9 @@
     <li>PostgreSQL</li>
     <li>nodemailer</li>
 </ul>
-  El proyecto consiste en una aplicación que permite visualizar un listado de productos tecnológicos con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con outh0, register y login con outh0. Cuenta con roles para user y admin. El usuario, puede hacer compras, editar su perfil y suscribirse al newsletter de la página, agregar a favoritos y comprar productos. El panel del admin, además de crear o editar un producto, ver lar ordenes de los productos, ver los comentarios de todos los productos y todos los usuarios, pudiéndole darle el rol de admin . Las herramientas utilizadas fueron: JavaScript, HTML, CSS, NodeJS, Express, Sequelize, PostgreSQL, React, Redux, cloudinary.
+  <p>El proyecto consiste en una aplicación que permite visualizar un listado de productos tecnológicos con una información detallada de cada uno al darle click en este. Tiene un sistema de autenticación con outh0, register y login con outh0. Cuenta con roles para user y admin. El usuario, puede hacer compras, editar su perfil y suscribirse al newsletter de la página, agregar a favoritos y comprar productos. El panel del admin, además de crear o editar un producto, ver lar ordenes de los productos, ver los comentarios de todos los productos y todos los usuarios, pudiéndole darle el rol de admin . Las herramientas utilizadas fueron: JavaScript, HTML, CSS, NodeJS, Express, Sequelize, PostgreSQL, React, Redux, cloudinary.</p>
+  
+  <a href="https://unknowncoder.vercel.app/">
+  <img align="center" src="https://res.cloudinary.com/deaf0qceq/image/upload/v1660676839/ecommercegrupo05/e-comerce_c4myue.png" alt="e-comerce"  height=50% width=50% />
+  </a>
   <hr/>
